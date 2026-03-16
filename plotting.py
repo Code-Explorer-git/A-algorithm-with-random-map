@@ -1,9 +1,4 @@
-"""
-Plot tools 2D (Modified to accept external obstacles)
-@author: huiming zhou
-"""
 import matplotlib.pyplot as plt
-# 这里保留 env 导入以防万一，但不再用来生成地图
 import env
 
 

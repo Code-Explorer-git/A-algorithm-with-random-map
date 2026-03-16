@@ -1,7 +1,3 @@
-"""
-Env 2D (Random Map Generator)
-@author: huiming zhou, Modified
-"""
 import random
 
 

@@ -105,9 +105,9 @@ def main():
     start = (5, 5)
     goal = (45, 25)
 
-    # 仅保留manhattan和euclidean选项
+
     astar = Astar(start, goal, heuristic_type="euclidean")
-    # 移除第三个参数，与原Plotting类兼容
+
     plot = plotting.Plotting(start, goal, astar.obstacles)
 
     path, visited = astar.search()
