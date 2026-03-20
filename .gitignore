@@ -1,0 +1,36 @@
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyCharm IDE 配置文件
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# 系统临时文件
+.DS_Store
+Thumbs.db
+
+# 虚拟环境
+venv/
+env/
+ENV/
