@@ -18,8 +18,6 @@
 - Python 3.13+
 - Matplotlib 3.8+
 
-pip install matplotlib
-
 ## 🚀 快速开始
 1.  **运行 A* 算法**
      ```bash
