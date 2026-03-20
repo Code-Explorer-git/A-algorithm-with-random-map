@@ -1,5 +1,5 @@
 # A* Pathfinding with Random Map
-
+#A*算法
 一个基于 Python 的 A* 路径规划算法实现，支持随机生成复杂迷宫地图，并通过 Matplotlib 动态可视化搜索过程。
 
 ## 特性
